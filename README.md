@@ -1,1 +1,1 @@
-# check_safe_bloodtpye
+# check_safe_bloodtype
